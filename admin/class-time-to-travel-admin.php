@@ -139,7 +139,7 @@ class besttime_Settings_Page
 				?>
 			</form>
 			<pre><code>Shortcode: [btt jan="0" feb="0" mar="0" apr="0" may="0" jun="0" jul="0" aug="0" sep="0" oct="0" nov="0" dec="0"]</code></pre>
-			<h4> Set to 1 for active months and set to 0 for non-active months (Default to non-active if omitted</h4>
+			<h4> Set to 1 for active months and set to 0 for non-active months (Defaults to non-active if omitted)</h4>
 		</div> <?php
 			}
 
